@@ -1,4 +1,4 @@
-# Employee Management System (Beginner Friendly)
+# PROFIGY_FS_2 (Beginner Friendly)
 
 ## How to Run
 
